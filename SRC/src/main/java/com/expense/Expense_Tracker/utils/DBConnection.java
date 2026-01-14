@@ -8,7 +8,7 @@ public class DBConnection {
     private static final String URL =
             "jdbc:mysql://localhost:3306/expense_tracker";
     private static final String USER = "root";
-    private static final String PASSWORD = "Teeksha23@";
+    private static final String PASSWORD = "Drishty@123";
 
     public static Connection getConnection() {
         try {
@@ -21,3 +21,4 @@ public class DBConnection {
         }
     }
 }
+
