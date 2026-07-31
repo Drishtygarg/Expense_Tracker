@@ -118,14 +118,17 @@ Main Menu
 
 ---
 
-# 📷 Application Screenshot
+# 📷 Application Screenshots
 
-> Output of the Expense Tracker application
+### Home Screen
 
-<!-- Upload screenshot named expense-output.png -->
+![Home Screen](home-screen.png)
 
-![Expense Tracker Output](expense-output.png)
+---
 
+### Expense Added Successfully
+
+![Expense Output](expense-output.png)
 ---
 
 # 📈 Future Enhancements
